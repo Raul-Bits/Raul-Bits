@@ -1,4 +1,4 @@
-# Olá, eu sou Raul
+# Olá, eu sou Raul!
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFCE, em Tabuleiro do Norte, Ceará. Tenho interesse em desenvolvimento web, integração de sistemas e automações.
 
